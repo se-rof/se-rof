@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Raphael Joshua Fortes
+- 👋 Hi, I’m @se-rof
 - 👀 I’m interested in games, programming, and ping-pong
 - 🌱 I’m currently learning in Sheridan College.
 - 💞️ I’m currently seeking for an intership position.
